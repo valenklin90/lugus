@@ -5,6 +5,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "09bcee41-92e6-4a6e-a20d-63054d936bf0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-footer.png",
+            "image_width": 100,
+            "alignment": "center"
+          }
+        },
         "footer-0": {
           "type": "link_list",
           "settings": {
@@ -12,38 +20,47 @@
             "menu": "footer"
           }
         },
-        "footer-1": {
+        "042acdcc-a879-443a-be2b-9cfec18b1233": {
           "type": "link_list",
           "settings": {
-            "heading": "Info",
+            "heading": "Quick links",
             "menu": "footer"
           }
         },
-        "footer-2": {
-          "type": "text",
+        "1fb9a322-27b2-4a07-8347-cbc849f91ac9": {
+          "type": "link_list",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "c1e62ab3-4045-4c77-a0eb-ac03839c8770": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
           }
         }
       },
       "block_order": [
+        "09bcee41-92e6-4a6e-a20d-63054d936bf0",
         "footer-0",
-        "footer-1",
-        "footer-2"
+        "042acdcc-a879-443a-be2b-9cfec18b1233",
+        "1fb9a322-27b2-4a07-8347-cbc849f91ac9",
+        "c1e62ab3-4045-4c77-a0eb-ac03839c8770"
       ],
       "settings": {
         "color_scheme": "background-1",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": false,
-        "show_social": true,
-        "enable_country_selector": true,
-        "enable_language_selector": true,
+        "show_social": false,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
         "payment_enable": true,
         "show_policy": false,
-        "margin_top": 48,
-        "padding_top": 36,
+        "margin_top": 40,
+        "padding_top": 40,
         "padding_bottom": 36
       }
     }
