@@ -148,18 +148,6 @@
         "padding_bottom": 36
       }
     },
-    "405e08e3-8734-4429-9e8d-ea986a065052": {
-      "type": "slideshow",
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "0c2b69cf-a4f5-479a-9cf5-6a22fa7be281": {
       "type": "image-banner",
       "settings": {
@@ -181,7 +169,6 @@
     "image_banner",
     "featured_collection",
     "0fc39c75-e146-42f5-86bd-c175d60448c2",
-    "405e08e3-8734-4429-9e8d-ea986a065052",
     "0c2b69cf-a4f5-479a-9cf5-6a22fa7be281"
   ]
 }
