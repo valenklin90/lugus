@@ -19,7 +19,7 @@ h2 {
 .header {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .list-menu__item {
@@ -88,4 +88,24 @@ h2 {
     flex-direction: column;
     align-items: center;
     align-content: center;
+}
+
+.image-with-text__media .image-with-text__media--small .gradient .color-background-1 .global-media-settings .media>img {
+    display: block;
+    align-self: center;
+}
+
+
+/* FOOTER */
+
+.footer__blocks-wrapper {
+    display: flex !important;
+    flex-direction: row !important;
+
+}
+
+.footer__content-bottom {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
 }
