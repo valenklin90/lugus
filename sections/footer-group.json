@@ -16,28 +16,28 @@
         "footer-0": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "",
             "menu": "footer"
           }
         },
         "042acdcc-a879-443a-be2b-9cfec18b1233": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "",
             "menu": "footer"
           }
         },
         "1fb9a322-27b2-4a07-8347-cbc849f91ac9": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "",
             "menu": "footer"
           }
         },
         "c1e62ab3-4045-4c77-a0eb-ac03839c8770": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "",
             "menu": "footer"
           }
         }

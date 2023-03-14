@@ -9,6 +9,10 @@
     background-color: #4374EF;
 }
 
+h2 {
+    text-transform: uppercase;
+}
+
 /* HEADER */
 
 .header {
@@ -17,16 +21,8 @@
     justify-content: space-between;
 }
 
-.list-menu {
+.list-menu__item {
     text-transform:uppercase;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 17px;
-}
-
-h2 {
-    text-transform: uppercase;
 }
 
 #Banner-template--18316498927916__image_banner .content-container {
@@ -34,4 +30,26 @@ h2 {
 }
 
 
+/* SECTION FEATURED PRODUCTS */
+
+.section-template--18316498927916__featured_collection-padding {
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
+
+.collection__title {
+    text-align: center;
+}
+
+.collection__title h2 {
+    text-transform: capitalize;
+}
+
+.card__information>h3 {
+    text-transform: uppercase;
+}
+
+.price__container {
+    color: #4374EF;
+}
 
