@@ -178,9 +178,12 @@
         "template--18213405425964__41031a50-b0c1-46b5-bbfa-1b769ea333ca-16787828091237c4ab-0",
         "template--18213405425964__41031a50-b0c1-46b5-bbfa-1b769ea333ca-16787828091237c4ab-1"
       ],
+      "custom_css": [
+        "img {width : 50px; height :50px}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/instagram.png",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
