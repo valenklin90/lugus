@@ -92,7 +92,7 @@
         "template--18213405425964__0fc39c75-e146-42f5-86bd-c175d60448c2-16787390234c325abc-0": {
           "type": "text",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
+            "text": "",
             "text_style": "uppercase"
           }
         },

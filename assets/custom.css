@@ -7,6 +7,7 @@
 .button {
     color: white;
     background-color: #4374EF;
+    border: none !important;
 }
 
 h2 {
@@ -51,5 +52,32 @@ h2 {
 
 .price__container {
     color: #4374EF;
+}
+
+/* SECTION PRODUCT */
+
+#ProductSubmitButton-template--18316498927916__0fc39c75-e146-42f5-86bd-c175d60448c2 {
+    color: #4374EF !important;
+    background-color: white !important;
+    border: 1px solid #4374EF !important;
+}
+
+.shopify-payment-button__button  {
+    color: white !important;
+    background-color: #4374EF !important;
+    border: 1px solid white !important;
+}
+
+.section-template--18316498927916__0fc39c75-e146-42f5-86bd-c175d60448c2-padding a {
+    color: #4374EF !important;
+}
+
+.quantity, button.quantity__button {
+    background-color: #4374EF;
+    color: white;
+}
+
+.quantity {
+    border: none !important;
 }
 
