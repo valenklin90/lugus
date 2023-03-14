@@ -1,0 +1,37 @@
+/* GENERAL */
+
+.page-width {
+    max-width: none;
+}
+
+.button {
+    color: white;
+    background-color: #4374EF;
+}
+
+/* HEADER */
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.list-menu {
+    text-transform:uppercase;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+#Banner-template--18316498927916__image_banner .content-container {
+    max-width: 70rem;
+}
+
+
+
